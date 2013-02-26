@@ -1,0 +1,6 @@
+Linguagem de Programação OpenSource
+
+- Free as in Beer and as in Speech
+- Criada por Guido van Rossum em 91
+- Gerida pela Python Software Foundation (PSF)
+

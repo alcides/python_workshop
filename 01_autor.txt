@@ -1,0 +1,8 @@
+Alcides Fonseca
+
+7 anos de Python
+
+Assistente Convidado e Investigador na Universidade de Coimbra
+WebDeveloper Freelance (Django, uma framework web para Python)
+
+Contribuições para Django e Django-Forum, entre outros.
