@@ -1,0 +1,4 @@
+Write the paired strand of a DNA sequence.
+
+A-T
+C-G
