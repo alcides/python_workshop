@@ -1,5 +1,7 @@
 Python Workshop
 
+https://github.com/alcides/python_workshop
+
 — Alcides Fonseca
 
 http://alcidesfonseca.com
