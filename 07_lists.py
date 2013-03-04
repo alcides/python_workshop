@@ -13,4 +13,12 @@ for pessoa in a:
     
     
 b = [ "Sra %s" % nome for nome in a if nome.endswith("a")  ]
-print b
+
+
+c = []
+for nome in a:
+    if nome.endswith("a"):
+        c.append("Sra %s" % nome )
+print c
+
+print b 
